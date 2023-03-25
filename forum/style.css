@@ -1,0 +1,49 @@
+.green-title{
+  font-size: 50px;
+  color:white;
+  background-color: green;
+  text-align: center;
+}
+
+.title-for-forum-in-base{
+  font-size:30px;
+  color:darkorange;
+}
+
+.container{
+  border: 1px solid black;
+  padding: 10px;
+  box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.5);
+  max-width: 5000px;
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+  color:black;
+  font-size:5px;
+}
+
+.title-for-forum{
+  font-size: 30px;
+  border:1px green;
+  padding:10px;
+  box-shadow:0px 0px 10px 5px rgba(0, 0, 0, 0.5);
+  background-color: darkblue;
+  color:white;
+  max-width: 300px;
+}
+
+.back-to-base{
+  font-size:10px;
+  border:1px green;
+  padding:10px;
+  box-shadow:0px 0px 10px 5px rgba(0, 0, 0, 0.5);
+  background-color: darkred;
+  color:white;
+}
+
+.underline {
+  border-bottom: 1px solid black;
+  margin-top: 50px;
+}
